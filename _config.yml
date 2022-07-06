@@ -27,7 +27,7 @@ touch_icon: img/apple-touch-icon.png
 google_analytics_key: UA-49607422-1
 colors:
   black: "#110B11"
-  white: "#FAF2EF"
+  white: "#F8F8F8"
   blue: "#8CADA7"
   green: "#A5D0A8"
 kramdown:
