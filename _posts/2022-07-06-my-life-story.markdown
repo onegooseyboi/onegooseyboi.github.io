@@ -3,6 +3,7 @@ title: My life story
 date: 2022-07-06 21:22:00 Z
 bg: green
 color: black
+fa-icon: microphone
 ---
 
 Now this is the story all about how\
